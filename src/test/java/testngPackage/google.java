@@ -42,5 +42,7 @@ public class google {
         System.out.println("Amazon is opened successfully at " + timeStamp);
         driver.get("https://www.amazon.com/");
         System.out.println("amazon is opened successfully");
+        System.out.println("amazon is awesome");
+
     }
 }
