@@ -43,6 +43,7 @@ public class google {
         driver.get("https://www.amazon.com/");
         System.out.println("amazon is opened successfully");
         System.out.println("amazon is awesome");
+        //abc
 
     }
 }
